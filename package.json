@@ -1,0 +1,11 @@
+{
+    "name": "vp-blog",
+    "version": "0.0.1",
+    "description": "Cloudflare Pages Blog",
+    "main": "README.md",
+    "author": "Steve Brown",
+    "scripts": {
+        "dev": "vuepress dev blog",
+        "build": "vuepress build blog"
+    }
+}
