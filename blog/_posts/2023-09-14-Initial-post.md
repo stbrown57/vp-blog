@@ -7,6 +7,7 @@ tags:
 author: Steve Brown
 email: stbrown@6browns.org
 location: Fredericksburg
+image: /images/Tarmac.png
 ---
 
 > This is the offical blog theme.
